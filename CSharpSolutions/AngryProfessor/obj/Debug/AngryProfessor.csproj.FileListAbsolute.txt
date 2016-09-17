@@ -1,0 +1,6 @@
+C:\Users\ivelina\My stuff\hackerrrank-solutions\CSharpSolutions\AngryProfessor\bin\Debug\AngryProfessor.exe.config
+C:\Users\ivelina\My stuff\hackerrrank-solutions\CSharpSolutions\AngryProfessor\bin\Debug\AngryProfessor.exe
+C:\Users\ivelina\My stuff\hackerrrank-solutions\CSharpSolutions\AngryProfessor\bin\Debug\AngryProfessor.pdb
+C:\Users\ivelina\My stuff\hackerrrank-solutions\CSharpSolutions\AngryProfessor\obj\Debug\AngryProfessor.csprojResolveAssemblyReference.cache
+C:\Users\ivelina\My stuff\hackerrrank-solutions\CSharpSolutions\AngryProfessor\obj\Debug\AngryProfessor.exe
+C:\Users\ivelina\My stuff\hackerrrank-solutions\CSharpSolutions\AngryProfessor\obj\Debug\AngryProfessor.pdb

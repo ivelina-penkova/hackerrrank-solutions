@@ -1,0 +1,6 @@
+C:\Users\ivelina\My stuff\hackerrrank-solutions\CSharpSolutions\TheMaximumSubarray\bin\Debug\TheMaximumSubarray.exe.config
+C:\Users\ivelina\My stuff\hackerrrank-solutions\CSharpSolutions\TheMaximumSubarray\bin\Debug\TheMaximumSubarray.exe
+C:\Users\ivelina\My stuff\hackerrrank-solutions\CSharpSolutions\TheMaximumSubarray\bin\Debug\TheMaximumSubarray.pdb
+C:\Users\ivelina\My stuff\hackerrrank-solutions\CSharpSolutions\TheMaximumSubarray\obj\Debug\TheMaximumSubarray.csprojResolveAssemblyReference.cache
+C:\Users\ivelina\My stuff\hackerrrank-solutions\CSharpSolutions\TheMaximumSubarray\obj\Debug\TheMaximumSubarray.exe
+C:\Users\ivelina\My stuff\hackerrrank-solutions\CSharpSolutions\TheMaximumSubarray\obj\Debug\TheMaximumSubarray.pdb

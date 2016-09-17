@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheMaximumSubarray", "TheMaximumSubarray\TheMaximumSubarray.csproj", "{CF0DE635-19E6-4924-9F3B-12ABF91F314F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngryProfessor", "AngryProfessor\AngryProfessor.csproj", "{63BA083A-ABD2-412E-9E3D-55D34D60B204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenTree", "EvenTree\EvenTree.csproj", "{1A5FAD20-FEA7-4700-ABF5-D1AE876EDBE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0DE635-19E6-4924-9F3B-12ABF91F314F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0DE635-19E6-4924-9F3B-12ABF91F314F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0DE635-19E6-4924-9F3B-12ABF91F314F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0DE635-19E6-4924-9F3B-12ABF91F314F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BA083A-ABD2-412E-9E3D-55D34D60B204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BA083A-ABD2-412E-9E3D-55D34D60B204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BA083A-ABD2-412E-9E3D-55D34D60B204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BA083A-ABD2-412E-9E3D-55D34D60B204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A5FAD20-FEA7-4700-ABF5-D1AE876EDBE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A5FAD20-FEA7-4700-ABF5-D1AE876EDBE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A5FAD20-FEA7-4700-ABF5-D1AE876EDBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A5FAD20-FEA7-4700-ABF5-D1AE876EDBE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
