@@ -1,0 +1,1 @@
+(fn[n] (dotimes [x (min 50 n)] (println "Hello World")))

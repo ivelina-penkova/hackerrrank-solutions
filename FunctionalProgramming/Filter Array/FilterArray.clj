@@ -1,0 +1,1 @@
+  (fn[delim lst] (remove (fn[item] (>= item delim)) lst))

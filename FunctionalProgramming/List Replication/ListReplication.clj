@@ -1,0 +1,1 @@
+ (fn[num lst] (reduce #(concat %1 (repeat num %2)) [] lst))
